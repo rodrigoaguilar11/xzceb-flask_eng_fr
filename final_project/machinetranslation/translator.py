@@ -26,8 +26,8 @@ def french_to_english(french_text):
     english_text = translate ["translations"][0]["translation"]
     return english_text
 
-print("English to French:")
-print(english_to_french("Thanks"))
+#print("English to French:")
+#print(english_to_french("Thanks"))
 
-print("French to English:")
-print(french_to_english("Merci"))
+#print("French to English:")
+#print(french_to_english("Merci"))
